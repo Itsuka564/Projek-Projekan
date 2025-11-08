@@ -8,12 +8,9 @@ Proyek ini adalah evolusi dari *to-do list* sederhana menjadi *planner* harian y
 
 ## 📸 Pratinjau (Preview)
 
-[Ganti bagian ini dengan screenshot aplikasi Anda. Rekomendasi: Tampilkan mode terang dan gelap berdampingan!]
+<img width="1910" height="994" alt="image" src="https://github.com/user-attachments/assets/4cee911f-28af-4c34-8572-f87145488a0e" />
+<img width="1919" height="997" alt="image" src="https://github.com/user-attachments/assets/4479065d-b619-4c19-9cb6-7fb6d850531f" />
 
-*(Contoh gambar placeholder - hapus baris ini)*
-![Contoh Tampilan Aplikasi](https://via.placeholder.com/800x400.png?text=Pratinjau+Aplikasi+Kalender+Anda)
-
----
 
 ## ✨ Fitur Utama
 
